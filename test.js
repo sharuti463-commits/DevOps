@@ -19,3 +19,11 @@ assert.strictEqual(students.length, 2);
 console.log(" Test Case 2 Passed");
 
 console.log("\nAll Test Cases Passed Successfully!");
+
+console.log("Hello from Node.js!");
+console.log("Jenkins is running test.js successfully!");
+
+let a = 10;
+let b = 20;
+
+console.log("Sum =", a + b);
