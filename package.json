@@ -1,7 +1,14 @@
 {
-  "name": "student-devops",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "node test.js"
-  }
+  "students": [
+    {
+      "name": "Sharuti",
+      "email": "sh789@gmail.com",
+      "mobile": "987600080",
+      "course": "CSE",
+      "gender": "Female",
+      "branch":"CSE",
+      "password":"123456"
+    }
+    
+  ]
 }
